@@ -6,9 +6,9 @@
     { "id": 3, "name": "dirta" },
     { "id": 4, "name": "jangkung"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "food": [
+    { "id": 1, "food_name": "Rawon", "postId": 1 },
+    { "id": 2, "food_name": "Soto", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
