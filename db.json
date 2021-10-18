@@ -8,14 +8,6 @@
      "image": "https://images.unsplash.com/photo-1491609154219-ffd3ffafd992?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
     },
   ],
-  "food": [
-    { 
-      "id": 1, 
-      "food_name": "Pancake",
-      "image_food": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1560&q=80",
-      "postId": 1
-    },
-  ],
   "profile": {
     "name": "typicode"
   }
