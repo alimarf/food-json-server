@@ -1,8 +1,10 @@
 {
-  "posts": 
-    { 
-      "id": 1, 
-      "title": "Post 1" 
+  "user": 
+    {
+     "id": 1, 
+     "name": "Alim", 
+     "email": "chefAlim@gmail.com",
+     "image": "https://images.unsplash.com/photo-1491609154219-ffd3ffafd992?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
     },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
